@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "auth0": "^2.14.0",
-    "convict": "^4.4.1",
+    "convict": "^6.2.4",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
     "dynamoose": "^1.6.1",
